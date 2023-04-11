@@ -28,7 +28,7 @@
     },
     "hook": {
       "customTemplates": {
-        "hook":"templates/default/useTemplateName.jsx"
+        "hook": "templates/default/useTemplateName.jsx"
       },
       "path": "src/hooks",
       "withStyle": false,
@@ -37,5 +37,6 @@
       "withLazy": false,
       "withHook": true
     }
-  }
+  },
+  "usesStyledComponents": false
 }

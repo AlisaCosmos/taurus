@@ -24,7 +24,7 @@ function App() {
             <Route path="/contacts" element={<Contacts />} />
             <Route path="*" element={<ErrorPage />} />
           </Routes>
-        </main>
+      </main>
       <Footer></Footer>
     </div>
   );

@@ -1,10 +1,14 @@
 @import "vars";
 @import "fonts";
+@import 'libs/normalize';
 
 *, *:after, *:before {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+.img {
+  max-width: 100%;
 }
 
 body {
@@ -25,8 +29,6 @@ main {
 .container__row {
   width: 100%;
   max-width: 1280px;
-  /* padding-left: 60px;
-  padding-right: 60px; */ // отступы до правок дизайна
   padding-left: 50px; //контейнер 1180
   padding-right: 50px;
 
@@ -41,8 +43,6 @@ main {
 
   @media (min-width: $ultra)  {
     max-width: 2220px;
-  /*  padding-left: 100px;
-    padding-right: 100px; */ //отступы в проекте до правок дизайна
     padding-left: 105px;
     padding-right: 105px;
   }
