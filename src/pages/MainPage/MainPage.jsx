@@ -1,6 +1,6 @@
-import { useEffect, useState } from 'react';
+import { useContext, useEffect, useState } from 'react';
 
-
+import { SearchContext } from '../../App';
 import TypesPets from '../../components/TypesPets/TypesPets';
 import Categories from '../../components/Categories/Categories';
 import Sort from '../../components/Sort/Sort';
@@ -9,7 +9,8 @@ import Pagination from '../../components/Pagination/Pagination';
 
 import './MainPage.scss';
 
-export default function MainPage({searchValue}) {
+export default function MainPage() {
+    const {searchValue} = useContext(SearchContext);
     //Глобальные переменные для карточек товаров
     const [typesId, setSelectedTypesId] = useState({
         name: "Для кошек", 

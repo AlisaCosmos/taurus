@@ -8,7 +8,7 @@ import PersonOutlineOutlinedIcon from '@mui/icons-material/PersonOutlineOutlined
 
 import './Header.scss';
 
-export default function Header({searchValue, setSearchValue}) {
+export default function Header() {
     return (
         <div className="header container">
             <div className="header__inner container__row">
@@ -25,7 +25,7 @@ export default function Header({searchValue, setSearchValue}) {
                     <Link to="/contacts" className="header__menu__link">Контакты</Link>
                     </div>
                 </nav>
-                <Search searchValue={searchValue}  setSearchValue={setSearchValue} />
+                <Search />
                 <div className="header__user">                
                     <Link to="/profile" className="header__user__link" >
                         <PersonOutlineOutlinedIcon fontSize="large"/> 

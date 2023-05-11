@@ -16,7 +16,7 @@ import ErrorPage from "./pages/ErrorPage/ErrorPage";
 
 import './App.scss';
 
-const SearchContext = createContext();
+export const SearchContext = createContext();
 console.log(SearchContext);
 
 function App() {
@@ -25,10 +25,10 @@ function App() {
   return (
     <div className="App">
       <SearchContext.Provider value={{searchValue, setSearchValue}}>
-        <Header searchValue={searchValue}  setSearchValue={setSearchValue} />
+        <Header />
         <main className="container">
             <Routes>
-              <Route path="/" element={<MainPage searchValue={searchValue}  setSearchValue={setSearchValue} />} />
+              <Route path="/" element={<MainPage />} />
               <Route path="/about-project" element={<AboutProjectPage />} /> 
               <Route path="/card" element={<Card/>} />  
               <Route path="/cart" element={<Cart/>} />

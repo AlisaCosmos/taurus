@@ -1,11 +1,13 @@
 import { Link } from 'react-router-dom';
+import { useContext } from 'react';
+import { SearchContext } from '../../App';
 import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined';
 import CloseOutlinedIcon from '@mui/icons-material/CloseOutlined';
 
 import './Search.scss';
 
-export default function Search({searchValue, setSearchValue}) {
-    /* console.log(`${searchValue}  + "searchValueSearch"`); */
+export default function Search() {
+    const {searchValue, setSearchValue} = useContext(SearchContext);
     return (
         <div className="search">
             <SearchOutlinedIcon className="search__icon" /> 
