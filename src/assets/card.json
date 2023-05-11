@@ -1,8 +1,4 @@
 
-
-
-
-
 [
   {
     "id": 0,
@@ -17,7 +13,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 803,
-    "category": 0,
+    "category":  [ 2, 3, 10, 12, 14, 15, 16],
     "rating": 4
   },
   {
@@ -34,7 +30,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 4100,
-    "category": 0,
+    "category": [ 2, 3, 10, 12, 14, 15, 16],
     "rating": 6
   },
   {
@@ -51,7 +47,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 4800,
-    "category": 1,
+    "category": [ 1, 16],
     "rating": 4
   },
   {
@@ -68,7 +64,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 275,
-    "category": 2,
+    "category": [ 2, 15],
     "rating": 2
   },
   {
@@ -85,7 +81,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 415,
-    "category": 3,
+    "category":[ 13, 17],
     "rating": 8
   },
   {
@@ -102,13 +98,13 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 580,
-    "category": 2,
+    "category":  [ 7],
     "rating": 2
   },
   {
     "id": 6,
     "imageUrl": "https://i.ibb.co/Lkpr8fG/Dentrainer360.jpg",
-    "title": "Dentrainer360",
+    "title": "Dentrainer 360",
     "subtitle": "",
     "types": [0, 1],
     "sizes": [26, 30, 40],
@@ -119,7 +115,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 675,
-    "category": 1,
+    "category": [12],
     "rating": 9
   },
   {
@@ -136,7 +132,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 450,
-    "category": 4,
+    "category":  [12],
     "rating": 10
   },
   {
@@ -153,7 +149,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 395,
-    "category": 5,
+    "category":  [12],
     "rating": 10
   },
   {
@@ -170,7 +166,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category":  [1],
     "rating": 7
   },
   {
@@ -187,7 +183,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",  
     "price": 285,
-    "category": 5,
+    "category":  [1, 6, 13, 15],
     "rating": 7
   },
   {
@@ -204,7 +200,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category": [8],
     "rating": 7
   },
   {
@@ -221,7 +217,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category": [8],
     "rating": 7
   },
   {
@@ -238,7 +234,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category": [9],
     "rating": 7
   },
   {
@@ -255,7 +251,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category":  [1, 16, 18],
     "rating": 7
   },
   {
@@ -272,7 +268,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category":  [1, 16, 18],
     "rating": 7
   },
   {
@@ -289,7 +285,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category":  [12],
     "rating": 7
   },
   {
@@ -306,7 +302,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category": [1, 3, 16],
     "rating": 7
   },
   {
@@ -323,13 +319,13 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category": [13, 15],
     "rating": 7
   },
   {
     "id": 19,
     "imageUrl": "https://i.ibb.co/wQ4Zc0k/Medaboo.jpg",
-    "title": "Марагутто",
+    "title": "Медабоу",
     "subtitle": "",
     "types": [0, 1],
     "sizes": [26, 30, 40],
@@ -340,7 +336,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category": [13, 15],
     "rating": 7
   },
   {
@@ -357,7 +353,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category": [10],
     "rating": 7
   },
   {
@@ -365,7 +361,7 @@
     "imageUrl": "https://i.ibb.co/WphyvHH/Metatabi-Drink.jpg",
     "title": "Метатаби Дринк",
     "subtitle": "капли для ежедневного поддержания здоровья мочеполовых путей и профилактики мочекаменной болезни у кошек. Кошка употребляет больше воды благодаря привлекательному вкусу, который ей придаёт эта добавка, а тщательно отобранные ингредиенты из трав, выращенные без пестицидов, поддерживают здоровье мочеполовой системы кошек.",
-    "types": [0, 1],
+    "types": [0],
     "sizes": [26, 30, 40],
     "compound":"",
     "destination":"",
@@ -374,7 +370,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category":  [5],
     "rating": 7
   },
   {
@@ -391,7 +387,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category": [9],
     "rating": 7
   },
   {
@@ -399,7 +395,7 @@
     "imageUrl": "https://i.ibb.co/CnX5MB2/Mimikuza.jpg",
     "title": "Мимикуза",
     "subtitle": "японский лечебно-профилактический лосьон для ушей собак мягкого и нежного действия. Контролирует рост бактерий, восстанавливает и регенерирует чувствительную кожу ушей, устраняет неприятный запах",
-    "types": [0, 1],
+    "types": [1],
     "sizes": [26, 30, 40],
     "compound":"",
     "destination":"",
@@ -408,13 +404,13 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category": [1, 16, 18],
     "rating": 7
   },
   {
     "id": 24,
     "imageUrl": "https://i.ibb.co/8PHGrhM/Okotovari.jpg",
-    "title": "Мимикуза",
+    "title": "Окотовари",
     "subtitle": "",
     "types": [0, 1],
     "sizes": [26, 30, 40],
@@ -425,7 +421,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category": [8],
     "rating": 7
   },
   {
@@ -442,7 +438,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category":  [19],
     "rating": 7
   },
   {
@@ -459,7 +455,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category": [2],
     "rating": 7
   },
   {
@@ -476,7 +472,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category": [12],
     "rating": 7
   },
   {
@@ -493,7 +489,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category": [12],
     "rating": 7
   },
   {
@@ -510,7 +506,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category":  [12],
     "rating": 7
   },
   {
@@ -524,7 +520,7 @@
     "destination":"",
     "use": "",
     "price": 285,
-    "category": 5,
+    "category": [12],
     "rating": 7
   },
   {
@@ -541,7 +537,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category":  [10],
     "rating": 7
   },
   {
@@ -558,7 +554,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category":  [12],
     "rating": 7
   },
   {
@@ -575,7 +571,7 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 285,
-    "category": 5,
+    "category":  [2],
     "rating": 7
   },
   {
@@ -592,9 +588,9 @@
     "sideEffects":"Не выявлено",
     "additions":"Не является ветеринарным препаратом",
     "price": 1900,
-    "category": 5,
-    "rating": 7
+    "category":  [1,2,3],
+    "rating": 7,
+    "data": "2020-03-20T16:00:0"
   }
-
-
 ]
+

@@ -1,5 +1,6 @@
 @import "vars";
 @import "fonts";
+@import "btn";
 @import 'libs/normalize';
 
 *, *:after, *:before {
@@ -28,9 +29,10 @@ main {
 }
 .container__row {
   width: 100%;
-  max-width: 1280px;
-  padding-left: 50px; //контейнер 1180
-  padding-right: 50px;
+  max-width: 1440px;
+  padding-left: 130px; //контейнер 1180
+  padding-right: 130px;
+  
 
 @media (max-width: $tablet)  {
     padding-left: 67px;

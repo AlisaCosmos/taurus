@@ -1,10 +1,18 @@
 .categories {
     margin-bottom: 50px;
+    &__title {
+      margin-bottom: 20px;
+    }
     &__list {
         display: flex;
-        flex-wrap: wrap;
+    }
+    &__listType {
+      width: 100%;
+      overflow: scroll;
+      margin-bottom: 20px;
     }
     &__item {
+        min-width: 170px;
         background-color: #f9f9f9;
         padding: 13px 30px;
         border-radius: 30px;
@@ -25,5 +33,6 @@
           background-color: #282828;
           color: #fff;
         }
+        
       }
 }
