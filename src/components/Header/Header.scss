@@ -1,4 +1,7 @@
 .header {
+    /* background-color:  #12076C; */
+    background: #ffffff;
+    
     &__inner {
         display: flex;
         justify-content: space-between;
@@ -6,6 +9,20 @@
         width: 100%;
         height: 130px;
         font-size: 20px;
+
+        a {
+            //#D61FDA
+            color: #CE8DF4;
+            font-weight: 800;
+            &:hover {
+                color:#D61FDA;
+                .header__link__count {
+                    color:#D61FDA;
+                }
+            }
+            
+        }
+        
     }
     &__logo {
     }
@@ -25,11 +42,16 @@
         align-items: center;
         cursor: pointer; 
         text-decoration: none; 
+        
     }
     &__link {
+        
 
     }
     &__user {
 
+    }
+    &__link__count {
+        color: #CE8DF4; 
     }
 }

@@ -10,21 +10,21 @@
         width: 45px;
         line-height: 42px;
         height: 45px;
-        border: 1px solid hsl(17, 99%, 56%);;
+        border: 1px solid hsl(247%, 88%, 23%);;
         border-radius: 30px;
         margin-right: 10px;
         cursor: pointer;
-        color: #fe5f1e;
+        color: #12076C;
             &:hover {
-                background-color: #fe5e1e;
-                color: #fff;
+                background-color: #12076C;
+                color: #CE8DF4;;
             }
     }
 
     .selected {
         a {
-            background-color: #fe5e1e;
-            color: #fff;
+            background-color: #12076C;
+            color: #CE8DF4;;
         }
         
     }

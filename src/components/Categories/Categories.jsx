@@ -32,7 +32,7 @@ export default function Categories({
     return (
         <div className="categories">
           <div className="categories__header">
-            <h1 className="categories__title">Назначение</h1>
+            {/* <h1 className="categories__title">Назначение</h1> */}
           </div>
             <div> 
               <ul className="categories__list categories__listType">

@@ -13,7 +13,8 @@
     }
     &__item {
         min-width: 170px;
-        background-color: #f9f9f9;
+        background-color: #fcf7fe;
+        color: #12076C;
         padding: 13px 30px;
         border-radius: 30px;
         margin-right: 10px;
@@ -22,16 +23,18 @@
         transition: background-color 0.1s ease-in-out;
   
         &:hover {
-          background-color: darken(#f9f9f9, 2%);
+          background-color: darken(#fcf7fe, 2%);
         }
   
         &:active {
-          background-color: darken(#f9f9f9, 5%);
+          background-color: darken(#fcf7fe, 5%);
         }
   
         &.categories__item_active{
-          background-color: #282828;
-          color: #fff;
+          color: rgb(239, 239, 239);
+          background-image: linear-gradient(45deg, #fe4fe1 0%, #3f00fe 100%);
+          /* background-color:  #12076C;
+          color: #CE8DF4; */
         }
         
       }

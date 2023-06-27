@@ -9,7 +9,7 @@ export default function ButtonBuy() {
     };
     return (
             <button 
-                className="buttonBuy button--outline button--add"
+                className="btn buttonBuy button--outline button--add"
                 onClick={onClickBadgeCount}>
                 <svg
                     width="12"

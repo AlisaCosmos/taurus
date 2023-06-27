@@ -15,7 +15,7 @@
 body {
   font-family: $generalFont;
   color: $textColor;
-  font-weight: 400;
+  font-weight: 500;
   -webkit-text-size-adjust:none; //Предотвратить масштабирование шрифта в альбомной ориентации, разрешив пользователю масштабирование 
 }
 main {
@@ -30,8 +30,9 @@ main {
 .container__row {
   width: 100%;
   max-width: 1440px;
-  padding-left: 130px; //контейнер 1180
-  padding-right: 130px;
+  padding: 0 85px;//контейнер 1270
+  /* padding-left: 130px; //контейнер 1180
+  padding-right: 130px; */
   
 
 @media (max-width: $tablet)  {

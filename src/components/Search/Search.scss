@@ -2,6 +2,7 @@
     display: flex;
     align-items: center;
     position: relative;
+    color: #CE8DF4;
     &__icon {
         width: 22px;
         height: 22px;
@@ -11,14 +12,20 @@
         left: 14px;
     }
     &__input {
-        border: 1px solid rgba(0, 0, 0, 0.1);
+        border: 1px solid rgba(206, 141, 244, 0.1);
         padding: 12px 15px;
         padding-left: 42px;
         width: 300px;
         border-radius: 10px;
         font-size: 16px;
+        color: #CE8DF4;
+
+        /* background-color:  #12076C; */
         &:focus {
-            border: 1px solid rgba(0, 0, 0, 0.2);
+            border: 1px solid rgba(206, 141, 244, 0.2);
+        }
+        &::placeholder {
+            color: #CE8DF4;
         }
     }
     &__icon__close {

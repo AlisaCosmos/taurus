@@ -5,47 +5,101 @@
 /*     width: calc(1180px /3 - 120px); */
     margin-top: 40px;
     display: flex;
+    height: 430px;
     flex-direction: column;
-    justify-content: start;
+    justify-content: flex-start;
+    align-items: center;
+    padding: .4em;
+    position: relative;
 
-    background: white;
+    /* background: white;
     border-radius: 30px;
     box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
-    transition: 0.2s ease-in-out;
+    transition: 0.2s ease-in-out; */
     &:hover {
         cursor: pointer;
-        box-shadow: 0px 10px 20px rgba(0,0,0,0.1);
-        transform: translateY(-10px);
+        background: linear-gradient(94.9deg, #FFF5DD 1.6%, rgba(170, 86, 254, 0.32) 38.13%, rgba(254, 86, 217, 0.28) 58.65%, rgba(86, 254, 254, 0.28) 99.73%);
+        box-shadow: -10px 10px 50px rgba(0, 0, 0, 0.1), inset 10px 10px 60px rgba(255, 255, 255, 0.4);
+        border-radius: 20px;
+        .cardItem__image_wrapper {
+            /* transition: all 0.5s ease-out; */
+            object-fit: contain; /* Встраиваем картинку в контейнер card__image */
+            transition: 0.2s;
+            transform: scale(1.1, 1.1);
+            
+        }
+        .cardItem__title {
+            color:#D61FDA;
+        }
+        /* transform: translateY(-10px); */
     }
 
     &__image_wrapper {
+        display:block;
+        position: absolute;
+        top: -20%;
+        text-align: center;
+        height: 50%;
+
+    }
+    &__content_wrapper {
+        padding-top: 160px;
+        text-align:left;
+        position: relative;
     }
 
     &__image {
         width: 100%;
-        border-top-left-radius: 30px;
-        border-top-right-radius: 30px;
-        background: linear-gradient(#e66465, #9198e5);
-        display: flex;
-        align-items: top;
-        justify-content: right;
+        height: 100%;
+        border-radius: 6px 6px 0 0;
+        &:hover {
+            /* transform: scale(0.98); */
+        }
     }
     &__title {
-        font-size: 20px;
-        font-weight: bold;
+        font-size: 21px;
+        font-weight: 700; 
+        color: #CE8DF4;
         margin-bottom: 10px;
     }
     &__subtitle {
-        margin-bottom: 10px;
+        font-weight: 400; 
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        line-height: 1.3em;
+        height: 3.9em;
+    }
+    &__link {
+        display: block;
+        margin-bottom: 30px;
+        text-transform: uppercase;
+        font-weight: 700;
+        text-decoration: underline;
+        &:hover {
+            color: #12076C; 
+        }
     }
     &__availability {
         margin-bottom: 10px;
     }
     &__price {
         margin-bottom: 10px;
+        font-size: 25px;
+        font-weight: 700;
+    }
+    &__rating_inner {
+        display:flex;
+        margin-bottom: 10px;
     }
     &__rating {
-        margin-bottom: 10px;
+        padding-left: 10px;
+        font-size: 20px;
+        font-weight: 400;
+    }
+    &__cart_inner {
+        display:flex;
     }
     &__btn {
         display: flex;

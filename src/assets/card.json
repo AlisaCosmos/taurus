@@ -1,9 +1,9 @@
-
 [
   {
     "id": 0,
-    "imageUrl": "https://i.ibb.co/DkMGSFt/DSC1483.jpg",
+    "imageUrl": "https://i.ibb.co/bP7LpLZ/Lap-min.png",
     "title": "Незнаю",
+    "subtitle": "аминокислоты для быстрой нормализации общей кондиции организма, укрепления иммунитета, здоровья кожи, стабилизации микрофлоры кишечника, работы ЖКТ, печени",
     "types": [0, 1],
     "sizes": [26, 30, 40],
     "compound":"",
@@ -18,7 +18,7 @@
   },
   {
     "id": 1,
-    "imageUrl": "https://i.ibb.co/16HT042/Aminos.jpg",
+    "imageUrl": "https://i.ibb.co/23kwcgx/Aminos-min.png",
     "title": "Аминосу",
     "subtitle": "аминокислоты для быстрой нормализации общей кондиции организма, укрепления иммунитета, здоровья кожи, стабилизации микрофлоры кишечника, работы ЖКТ, печени",
     "types": [0],
@@ -35,7 +35,7 @@
   },
   {
     "id": 2,
-    "imageUrl": "https://i.ibb.co/bmY8xsK/Aruku.jpg",
+    "imageUrl": "https://i.ibb.co/RjSf4vm/Aruku-min.png",
     "title": "Аруку",
     "subtitle": "кормовая добавка для суставов, связок, хрящей, мышц собак и кошек. Аруку обеспечивает полный комплекс поддержания здоровья опорно-двигательного аппарата на всех стадиях жизни, включая здоровье и кондицию мышц",
     "types": [0],
@@ -52,7 +52,7 @@
   },
   {
     "id": 3,
-    "imageUrl": "https://i.ibb.co/QmkXYLW/B-S.jpg",
+    "imageUrl": "https://i.ibb.co/DPFKNVX/B-S-min.png",
     "title": "B&S",
     "subtitle": "пробиотик для собак, который восстанавливает и поддерживает здоровую микрофлору кишечника, снижает риск возникновения пищевых аллергий, сбоев иммунной системы и многих других заболеваний",
     "types": [1],
@@ -69,7 +69,7 @@
   },
   {
     "id": 4,
-    "imageUrl": "https://i.ibb.co/Lkxcr1z/Cajino.jpg",
+    "imageUrl": "https://i.ibb.co/rGdwXzQ/Cajino-min.png",
     "title": "Каджино",
     "subtitle": "спрей-антигрызин с неприятный для питомца цитрусовым запахом и с едким вкусом перца, с пряным вкусом ямайской черной смородины, с кисловатым вкусом и с легким пощипыванием, быстро и безопасно отучит портить мебель, растения, а также выгрызать шерсть, срывать бинты и повязки.",
     "types": [0, 1],
@@ -86,7 +86,7 @@
   },
   {
     "id": 5,
-    "imageUrl": "https://i.ibb.co/2S3dGfC/Carrop.jpg",
+    "imageUrl": "https://i.ibb.co/ZSJNp95/Carrop-min.png",
     "title": "Карропу",
     "subtitle": "Активные ингредиенты капель от укачивания в машине мягко, но эффективно снимают симптомы укачивания и тошноты. Позволяют животным легче переносить стрессовые ситуации, поездки на машине, посещение выставок, груминг.",
     "types": [0],
@@ -103,7 +103,7 @@
   },
   {
     "id": 6,
-    "imageUrl": "https://i.ibb.co/Lkpr8fG/Dentrainer360.jpg",
+    "imageUrl": "https://i.ibb.co/522hf5W/Dentrainer360-min.png",
     "title": "Dentrainer 360",
     "subtitle": "",
     "types": [0, 1],
@@ -120,7 +120,7 @@
   },
   {
     "id": 7,
-    "imageUrl": "https://i.ibb.co/rHvgxgD/EarWipes.jpg",
+    "imageUrl": "https://i.ibb.co/8K2JKDQ/Ear-Wipes-min.png",
     "title": "Салфетки для зубов",
     "subtitle": "Салфетки предназначены для ежедневного ухода за зубами, мягко очищают зубы, одновременно оказывая противовоспалительное, ранозаживляющее и противомикробное действие на дёсны.",
     "types": [0, 1],
@@ -137,7 +137,7 @@
   },
   {
     "id": 8,
-    "imageUrl": "https://i.ibb.co/1vHQxsK/Finger-Slim.jpg",
+    "imageUrl": "https://i.ibb.co/fdhZYsQ/Finger-Slim-min.png",
     "title": "Finger Slim",
     "subtitle": "",
     "types": [0, 1],
@@ -188,7 +188,7 @@
   },
   {
     "id": 11,
-    "imageUrl": "https://i.ibb.co/wC7mHQZ/Funkoron.jpg",
+    "imageUrl": "https://i.ibb.co/Zdqzy8B/Funkoron-min.png",
     "title": "Функорон",
     "subtitle": "",
     "types": [0, 1],
@@ -205,7 +205,7 @@
   },
   {
     "id": 12,
-    "imageUrl": "https://i.ibb.co/6DsHH8P/Funtrop.jpg",
+    "imageUrl": "https://i.ibb.co/ccs1CJP/Funtrop-min.png",
     "title": "Фунроппу Голд",
     "subtitle": "капли от поедания собственных фекалий для собак и кошек. Помогает отучить животных от поедания собственных фекалий, придавая фекалиям привлекательный запах (дрожжи) и крайне неприятный вкус (экстракт перца). Попробовав такие экскременты на вкус, собака быстро отучится от плохой привычки",
     "types": [0, 1],
@@ -222,7 +222,7 @@
   },
   {
     "id": 13,
-    "imageUrl": "https://i.ibb.co/H7KrYMD/Gapporopu.jpg",
+    "imageUrl": "https://i.ibb.co/KrdFqQr/Gapporopu-min.png",
     "title": "Габароппу",
     "subtitle": "капли антистресс для собак и кошек, эффективно действует на нервную систему животного, оказывая мягкое, но быстрое действие",
     "types": [0, 1],
@@ -239,7 +239,7 @@
   },
   {
     "id": 14,
-    "imageUrl": "https://i.ibb.co/NSVS8vy/Glukonets.jpg",
+    "imageUrl": "https://i.ibb.co/TLsRbTG/Glukonets-min.png",
     "title": "Глюканетсу",
     "subtitle": "хондропротектор с YPEP (яичные пептиды)  и глюкозамином для поддержания здоровья опорно-двигательного аппарата на всех стадиях жизни животных",
     "types": [0, 1],
@@ -256,8 +256,8 @@
   },
   {
     "id": 15,
-    "imageUrl": "https://i.ibb.co/0YS0P9v/Hawken-Shoku.jpg",
-    "title": "Глюконецу",
+    "imageUrl": "https://i.ibb.co/zVvhBN4/Hawken-Shoku-min.png",
+    "title": "Hawken",
     "subtitle": "",
     "types": [0, 1],
     "sizes": [26, 30, 40],
@@ -273,7 +273,7 @@
   },
   {
     "id": 16,
-    "imageUrl": "https://i.ibb.co/DkbqKPN/Hemigaki.jpg",
+    "imageUrl": "https://i.ibb.co/VD11w9C/Hemigaki-min.png",
     "title": "Хамигаки",
     "subtitle": "зубная паста с лактобактериями для собак и кошек. Очищает зубы от мягкого налета, устраняет неприятный запах из пасти, при постоянном использовании уменьшает образование зубного камня и является вспомогательным средством в борьбе с кариесом и гингивитом у собак и коше",
     "types": [0, 1],
@@ -290,7 +290,7 @@
   },
   {
     "id": 17,
-    "imageUrl": "https://i.ibb.co/z7SCYNx/Karobonetsu.jpg",
+    "imageUrl": "https://i.ibb.co/8B3X3wD/Karobonetsu-min.png",
     "title": "Карабонетсу",
     "subtitle": "комплексный препарат, положительно влияющий не только на отдельные жизненно-важные системы организма или органы (суставы и кожа, иммунитет, кровообращение, мозговая деятельность), но и на налаживание работы всего организма в целом",
     "types": [0, 1],
@@ -307,7 +307,7 @@
   },
   {
     "id": 18,
-    "imageUrl": "https://i.ibb.co/YWZ0vSL/Maragutto.jpg",
+    "imageUrl": "https://i.ibb.co/Pt9Cfpd/Maragutto-min.png",
     "title": "Марагуто",
     "subtitle": "груминг спрей для собак и кошек. Многофункциональный спрей из 100% натуральных компонентов, для ухода за кожей и шерстью. Увлажняет, снимает зуд и перхоть, появляющуюся в стрессовых ситуациях, безопасно и эффективно удаляет пятна и запахи",
     "types": [0, 1],
@@ -324,7 +324,7 @@
   },
   {
     "id": 19,
-    "imageUrl": "https://i.ibb.co/wQ4Zc0k/Medaboo.jpg",
+    "imageUrl": "https://i.ibb.co/QD8Lr8j/Medaboo-min.pngttps://i.ibb.co/wQ4Zc0k/Medaboo.jpg",
     "title": "Медабоу",
     "subtitle": "",
     "types": [0, 1],
@@ -341,7 +341,7 @@
   },
   {
     "id": 20,
-    "imageUrl": "https://i.ibb.co/kKHkSRV/Namodayaki.jpg",
+    "imageUrl": "https://i.ibb.co/9Yv80g0/Namodayaki-min.png",
     "title": "Спрей Намадайяке",
     "subtitle": "мощная, но очень нежная формула спрея очищает даже сильные загрязнения с шерсти вокруг глаз, не вызывая раздражения кожи, обладает противовоспалительным и регенерирующим действием на кожу. Регулярное использование спрея помогает уменьшить повторное образование пятен.",
     "types": [0, 1],
@@ -358,7 +358,7 @@
   },
   {
     "id": 21,
-    "imageUrl": "https://i.ibb.co/WphyvHH/Metatabi-Drink.jpg",
+    "imageUrl": "https://i.ibb.co/QKwXk9G/Metatabi-Drink-min.png",
     "title": "Метатаби Дринк",
     "subtitle": "капли для ежедневного поддержания здоровья мочеполовых путей и профилактики мочекаменной болезни у кошек. Кошка употребляет больше воды благодаря привлекательному вкусу, который ей придаёт эта добавка, а тщательно отобранные ингредиенты из трав, выращенные без пестицидов, поддерживают здоровье мочеполовой системы кошек.",
     "types": [0],
@@ -375,7 +375,7 @@
   },
   {
     "id": 22,
-    "imageUrl": "https://i.ibb.co/8szRVY1/Medaroppu.jpg",
+    "imageUrl": "https://i.ibb.co/NW5rmm9/Medaroppu-min.png",
     "title": "Медароппу",
     "subtitle": "успокаивающие капли для собак и кошек",
     "types": [0, 1],
@@ -392,7 +392,7 @@
   },
   {
     "id": 23,
-    "imageUrl": "https://i.ibb.co/CnX5MB2/Mimikuza.jpg",
+    "imageUrl": "https://i.ibb.co/k0xCLYR/Mimikuza-min.png",
     "title": "Мимикуза",
     "subtitle": "японский лечебно-профилактический лосьон для ушей собак мягкого и нежного действия. Контролирует рост бактерий, восстанавливает и регенерирует чувствительную кожу ушей, устраняет неприятный запах",
     "types": [1],
@@ -409,7 +409,7 @@
   },
   {
     "id": 24,
-    "imageUrl": "https://i.ibb.co/8PHGrhM/Okotovari.jpg",
+    "imageUrl": "https://i.ibb.co/3vd67J2/Okotovari-min.png",
     "title": "Окотовари",
     "subtitle": "",
     "types": [0, 1],
@@ -426,7 +426,7 @@
   },
   {
     "id": 25,
-    "imageUrl": "https://i.ibb.co/CwDXvsj/PowSoft.jpg",
+    "imageUrl": "https://i.ibb.co/jbZzyrD/Pow-Soft-min.png",
     "title": "Пау Софт",
     "subtitle": "гель с аппликатором для смягчения мозолей на локтях и предохранения подушечек лап и кожу между пальцев собак и кошек от от неблагоприятных внешних воздействий (соль, реагенты, горячий песок, асфальт, сухой воздух в квартире)",
     "types": [0, 1],
@@ -443,7 +443,7 @@
   },
   {
     "id": 26,
-    "imageUrl": "https://i.ibb.co/pJnHNLC/TBA.jpg",
+    "imageUrl": "https://i.ibb.co/s1bVjd6/TBA-min.png",
     "title": "TBA Дринк",
     "subtitle": "ферменты с пребиотиками для собак и кошек, улучшающие пищеварение и усвоение корма, показан при различных типах нарушений пищеварения, при метеоризме, нестабильном стуле",
     "types": [0, 1],
@@ -460,7 +460,7 @@
   },
   {
     "id": 27,
-    "imageUrl": "https://i.ibb.co/6BT2vhz/tooth-Paste-Blue.jpg",
+    "imageUrl": "https://i.ibb.co/Wny0rkF/tooth-Paste-Blue-min.png",
     "title": "Зубная паста",
     "subtitle": "",
     "types": [0, 1],
@@ -477,7 +477,7 @@
   },
   {
     "id": 28,
-    "imageUrl": "https://i.ibb.co/vYnvbwg/toothpaste-Old.jpg",
+    "imageUrl": "https://i.ibb.co/BNVhdgp/toothpaste-Old-min.png",
     "title": "Зубная паста для пожилых",
     "subtitle": "",
     "types": [0, 1],
@@ -497,7 +497,7 @@
     "imageUrl": "https://i.ibb.co/C8gtbR2/Tooth-Paste-Zoo-Finger-Cat.jpg",
     "title": "Зубная паста для пожилых",
     "subtitle": "",
-    "types": [0, 1],
+    "types": [0],
     "sizes": [26, 30, 40],
     "compound":"",
     "destination":"",
@@ -511,10 +511,10 @@
   },
   {
     "id": 30,
-    "imageUrl": "https://i.ibb.co/F8c15Cx/Tooth-Paste-Zoo-Finger-Dog.jpg",
+    "imageUrl": "https://i.ibb.co/MSPJgks/Tooth-Paste-Zoo-Finger-Dog-min.png",
     "title": "ToothPasteZoo & Finger",
     "subtitle": "",
-    "types": [0, 1],
+    "types": [1],
     "sizes": [26, 30, 40],
     "compound":"",
     "destination":"",
@@ -525,7 +525,7 @@
   },
   {
     "id": 31,
-    "imageUrl": "https://i.ibb.co/bLHnVFJ/Tooth-Wipes.jpg",
+    "imageUrl": "https://i.ibb.co/WnKqwYZ/Tooth-Wipes-min.png",
     "title": "Салфетки для глаз",
     "subtitle": "Салфетки мягко очищают шерсть и очень чувствительную кожу вокруг глаз. Оказывают противовоспалительное, противомикробное, ранозаживляющее и увлажняющее действие.",
     "types": [0, 1],
@@ -542,7 +542,7 @@
   },
   {
     "id": 32,
-    "imageUrl": "https://i.ibb.co/C0QGg4c/Tooth-Wipes-Milk.jpg",
+    "imageUrl": "https://i.ibb.co/3C57M5R/Tooth-Wipes-Milk-min.png",
     "title": "Салфетки для зубов со вкусом молока",
     "subtitle": "",
     "types": [0, 1],
@@ -559,7 +559,7 @@
   },
   {
     "id": 33,
-    "imageUrl": "https://i.ibb.co/3CyZGy1/Yoguru2.jpg",
+    "imageUrl": "https://i.ibb.co/JH4bVgd/Yoguru2-min.png",
     "title": "Йогура2 до 7 лет",
     "subtitle": "пробиотик для поддержания здоровья ЖКТ и микрофлоры собак и кошек моложе 7 лет",
     "types": [0, 1],
@@ -576,7 +576,7 @@
   },
   {
     "id": 34,
-    "imageUrl": "https://i.ibb.co/8XF1tyq/Zendama.jpg",
+    "imageUrl": "https://i.ibb.co/b78yFdX/Zendama-min.png",
     "title": "Зендама Дринк",
     "subtitle": "ферменты для собак, улучшают усвоение корма, помогают набрать вес.",
     "types": [0, 1],
