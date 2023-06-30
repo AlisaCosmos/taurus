@@ -14,6 +14,7 @@ https://taurusjapan4pets.com/
 - React Hooks
 - Router v6
 - Redux Toolkit
+- Lodash.Debounce
 - Prettier
 
 ### Запуск проекта
